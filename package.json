@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://josserden.github.io/parcel-project-template-v.1.1.0",
+  "homepage": "https://SiarheyLu4.github.io/hw-11-cher-spin-1.git",
   "scripts": {
     "dev": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /parcel-project-template-v.1.1.0/"
+    "build": "parcel build src/*.html --public-url /hw-11-cher-spin-1.git/"
   },
   "repository": {
     "type": "git",
