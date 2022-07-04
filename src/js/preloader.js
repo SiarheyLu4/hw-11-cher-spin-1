@@ -2,11 +2,11 @@
 
 
 
-document.body.onload = function () {
+// document.body.onload = function () {
     
-        const preLoader = document.getElementById('page-preloader');
-        if (!preLoader.classList.contains('done')) {
-            preLoader.classList.add('done');
-        }
+//         const preLoader = document.getElementById('page-preloader');
+//         if (!preLoader.classList.contains('done')) {
+//             preLoader.classList.add('done');
+//         }
     
-}
+// }

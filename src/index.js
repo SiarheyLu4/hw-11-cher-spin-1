@@ -1,5 +1,5 @@
 import './sass/main.scss';
-import './js/preloader';
+// import './js/preloader';
 import axios from "axios";
 import { Notify } from 'notiflix';
 
